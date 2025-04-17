@@ -1,0 +1,54 @@
+.root-react-component-countdown-timer .countBox .countBoxItem {
+    flex: 1;
+  }
+  .root-react-component-countdown-timer .countBoxItem {
+    min-width: 30px;
+  }
+  .root-react-component-countdown-timer .countBox .label {
+    text-align: center;
+  }
+  .root-react-component-countdown-timer .countBox .countBoxItem .count {
+    text-align: center;
+  }
+  .root-react-component-countdown-timer .border .count {
+    border-color: rgb(62, 67, 69);
+  }
+  .root-react-component-countdown-timer .border .count {
+    height: auto;
+    border: 1px solid #cfcfcf;
+      border-top-color: rgb(207, 207, 207);
+      border-right-color: rgb(207, 207, 207);
+      border-bottom-color: rgb(207, 207, 207);
+      border-left-color: rgb(207, 207, 207);
+    border-radius: 5px;
+    margin: 2px;
+    padding: 0px 5px;
+    flex: 1;
+  }
+  [data-darkreader-inline-color] {
+    color: var(--darkreader-inline-color) !important;
+  }
+  [data-darkreader-inline-bgcolor] {
+    background-color: var(--darkreader-inline-bgcolor) !important;
+  }
+
+  .root-react-component-countdown-timer .countBox.left {
+    display: inline-flex;
+    font-size: 14px !important;
+    border: none !important;
+    direction: rtl;
+  }
+
+  .displayedTime{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+
+  .root-react-component-countdown-timer .countBox.left {
+    direction: rtl;
+  }
+
+  .count-down-react-box .count-down-react .root-react-component-countdown-timer {
+    margin: 15px 0;
+  }
