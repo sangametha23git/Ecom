@@ -39,20 +39,12 @@
    git clone https://github.com/sangametha23git/Ecom.git
    cd Ecom
 Install dependencies:
-
-bash
-Copy
-Edit
 npm install
-Start the app:
 
-bash
-Copy
-Edit
+Start the app:
 npx expo start
 
 📁 Folder Structure
-
 
 /Ecom
 ├── assets/
@@ -67,7 +59,3 @@ npx expo start
 Built with ❤️ by @sangametha23git
 
 
-
----
-
-Let me know if you want me to generate or design dummy screenshots for now!
