@@ -50,6 +50,7 @@ bash
 Copy
 Edit
 npx expo start
+
 📁 Folder Structure
 
 
@@ -60,12 +61,11 @@ npx expo start
 ├── context/
 ├── navigation/
 ├── App.tsx
+
 👩‍💻 Author
 
 Built with ❤️ by @sangametha23git
 
-📄 License
-This project is licensed under the MIT License.
 
 
 ---
